@@ -1,0 +1,380 @@
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Courses\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Health Info Technology\Semester 2\Programming 2\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form2.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer3\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\draak\Downloads\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer6\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Health Info Technology\Semester 2\Programming 2\ASSIGNMENT04\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer10\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\draak\Downloads\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Buffers.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Memory.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Text.Encodings.Web.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Text.Json.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.ValueTuple.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Buffers.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Memory.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Text.Encodings.Web.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Text.Json.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\System.ValueTuple.xml
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.displayList.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.SplashScreen.resources
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.csproj.CopyComplete
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Desktop\Courses\COMP123-005\MusicPlayer11\MusicPlayerSubmission\MusicPlayer\obj\Debug\MusicPlayer.pdb
